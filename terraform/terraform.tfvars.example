@@ -1,0 +1,2 @@
+bucket_name            = "your-org-immutable-records-eu-west-1"
+backup_admin_role_arns = ["arn:aws:iam::111122223333:role/SecurityBreakGlass"]
